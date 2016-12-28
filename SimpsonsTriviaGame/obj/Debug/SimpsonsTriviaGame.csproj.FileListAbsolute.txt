@@ -1,0 +1,16 @@
+C:\Users\vega480\Projects\brad\SimpsonsTriviaGame\SimpsonsTriviaGame\bin\Debug\SimpsonsTriviaGame.exe.config
+C:\Users\vega480\Projects\brad\SimpsonsTriviaGame\SimpsonsTriviaGame\bin\Debug\SimpsonsTriviaGame.exe
+C:\Users\vega480\Projects\brad\SimpsonsTriviaGame\SimpsonsTriviaGame\bin\Debug\SimpsonsTriviaGame.pdb
+C:\Users\vega480\Projects\brad\SimpsonsTriviaGame\SimpsonsTriviaGame\obj\Debug\SimpsonsTriviaGame.frmSimpsonsTrivia.resources
+C:\Users\vega480\Projects\brad\SimpsonsTriviaGame\SimpsonsTriviaGame\obj\Debug\SimpsonsTriviaGame.frmTriviaCard.resources
+C:\Users\vega480\Projects\brad\SimpsonsTriviaGame\SimpsonsTriviaGame\obj\Debug\SimpsonsTriviaGame.Properties.Resources.resources
+C:\Users\vega480\Projects\brad\SimpsonsTriviaGame\SimpsonsTriviaGame\obj\Debug\SimpsonsTriviaGame.csproj.GenerateResource.Cache
+C:\Users\vega480\Projects\brad\SimpsonsTriviaGame\SimpsonsTriviaGame\obj\Debug\SimpsonsTriviaGame.exe
+C:\Users\vega480\Projects\brad\SimpsonsTriviaGame\SimpsonsTriviaGame\obj\Debug\SimpsonsTriviaGame.pdb
+C:\Users\vega480\Projects\brad\SimpsonsTriviaGame\SimpsonsTriviaGame\bin\Debug\SimpsonsTriviaDB.mdf
+C:\Users\vega480\Projects\brad\SimpsonsTriviaGame\SimpsonsTriviaGame\bin\Debug\SimpsonsTriviaDB_log.ldf
+C:\Users\vega480\Projects\brad\SimpsonsTriviaGame\SimpsonsTriviaGame\bin\Debug\SimpsonsTriviaDBDataSet.Designer.cs
+C:\Users\vega480\Projects\brad\SimpsonsTriviaGame\SimpsonsTriviaGame\bin\Debug\SimpsonsTriviaDBDataSet.xsc
+C:\Users\vega480\Projects\brad\SimpsonsTriviaGame\SimpsonsTriviaGame\bin\Debug\SimpsonsTriviaDBDataSet.xsd
+C:\Users\vega480\Projects\brad\SimpsonsTriviaGame\SimpsonsTriviaGame\bin\Debug\SimpsonsTriviaDBDataSet.xss
+C:\Users\vega480\Projects\brad\SimpsonsTriviaGame\SimpsonsTriviaGame\obj\Debug\SimpsonsTriviaGame.csprojResolveAssemblyReference.cache
